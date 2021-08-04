@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "secure-skyline-311019",
+  "private_key_id": "ebb438cc7fb42699fee7fec106afea97b4a82562",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCNKJq3wqzXOS4C\nqCAHFM0LhhDNr59xAp3GJNy1QT2KCX5rqziKx4RUyrxMHUDruoMKif+embyHwbh/\nnGRqQVGttSDBd8ZyXSnz/QW2MZInHj+EVFrK+6w9mouRr0WC1RVj6HlG9DevFweR\nmTtmxm9lh6oOdUNFgvfAUPEJPJSn7meK7VnwVtr50Al8B7K5MGw7XKHASfrBUV7H\nAeUwwutiaqE2fPIEJJfb/Fsx8vu1k6joQEfm8/aBUvB3R5VWd0kbXnITa6iWRgTH\nxNVrF7icT45AKywwEtk0cHbelUUq1vbdObkWb6scDAUDitaKgIBscKNXTFkxHi2p\nPFXG8019AgMBAAECggEAGidIRzzIBlZfSnm4+WbmuLhdu6ZK7cbU0aX5yJFuY/lv\nVWaTYs8lmwo3Cgkvgp17cwPvewSz9Bk15FrnFfLFPeB90aqt93mAcObT3JZhpGLL\n1OpGKi6oEn/kVRk60UtGm8yyT62m9YdYTSctZNTmRdL1dJlQXfwuiBDXH+V8C4Lv\nc5dwC+Er7CaWeLWBhhoUVphS8voyjC1a06odBMJxdYN4qSBvLnhXvqDI1DeCUTWZ\nyrGlj0uAJEK9FyLFaCiNEsWWxmlYhAel4ucZBaxORAJEVfaGMNlb8sJLSZ+jmvXX\nBarmGvV0M0QIerGfJlUpaSDsSWTQVjVMINEp8WqYRwKBgQDBS/hOJVAXEzrLwqkr\noPW9Ydh6rNZojovW7RyWDiqI56TVCwifiwhhQGJyer9DlQNZFaGyU1jlpy2AyRo/\ne6hlDX2O9uGcP4xkIRILVZNcqmeJzJlHqTKSzSVMFMQCImN7vxjb3CEE5dRrmYZg\nG7kjO9ihivS+Yh0xbE+uaR2VwwKBgQC68ucYxgO+dw3HykyiR2PA/5lkjuDtjbGo\n7hAX2QQ4MCPwnA55b7pPXB6orRM4GKNkUdiRUa2RRgfD3gnR+L8zQZIL4Bo0Xg77\n1X4NSnXCr6m1vm2NjT341jS+kjkiASLvDYRDvykLX7FpWcgKyLZQNQZTUcOApOir\nZ0jVZkcbvwKBgHVsNRcjy5d48wq84g/C5AV73woG3Oj/TyvtNqRhTq2EKrnQzhg9\nWYXamvN4ZaAkcbg4T9YIk8RO3nGRuQQ/lnhszY1/pGZKpHpfLJr+DVsJmYQ4ahUC\nT9qmDLY/FyNEyLJv0CYff19+TqBezyarMLiarmrUAwF0kM9pQK5u5K4JAoGAOE3T\n4BgzJHgCxHtfHTjXCFdywWBuydz09uXMHwKTTMDi8iJuEZDe0evyp+aIdUqmWx5z\nVUD+P1SSHiGPX5fFLhC/hagW/FKfvKUN877LPLlfKYeSwyEY2wrYk9TCNEWXWdv+\nS9EU8YH+krYhk23jysBNiWaEtQf1sznGK89D900CgYAJ/w70YTFQy9Z1+CDW/Ynf\n7rmcQQXI4JB2rRrOcVjKz+3DdfyvwOmKooKS/U6kKQQ5wUne4zEX6ineafzL0uxc\nu1OXnfdi3dT1uQam3qh0g7knE8wpijm+LPT3NLh23XlYF+2hdeRmiumYAumftmQF\nS7gC67kyFMK86vuIpiu0gA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi@secure-skyline-311019.iam.gserviceaccount.com",
+  "client_id": "111585039057672715072",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi%40secure-skyline-311019.iam.gserviceaccount.com"
+}
