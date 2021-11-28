@@ -28,8 +28,8 @@ print(datetime.now())
 encodingsP = "encodings.pickle"
 
 #pir = MotionSensor(14)
-ACCESS_KEY = 'AKIAWV5DMNMLSP363Y57'
-SECRET_KEY = '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'
+ACCESS_KEY = ''
+SECRET_KEY = ''
 
 print("[INFO] loading encodings + face detector...")
 data = pickle.loads(open(encodingsP, "rb").read())
